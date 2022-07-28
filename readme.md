@@ -11,13 +11,13 @@
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DrWOjiVNeiI)
 
 # snapshots
-welcome Page
-![welcome Page](snapshots/admin_1.png)
-Admin button
-![Login page](snapshots/admin_2.png)
+Home Page
+![welcome Page](./snapshots/Home.jpg)
+Register
+![Login page](./snapshots/register.jpg)
 login page
-![login Page](snapshots/admin_3.png)
-login form
+![login Page](./snapshots/login.jpg)
+<!-- login form
 ![welcome Page](snapshots/admin_4.png)
 Dashboard page
 ![welcome Page](snapshots/admin_5.png)
@@ -59,5 +59,5 @@ view report
 ![welcome Page](snapshots/3.png)
 ![welcome Page](snapshots/user_10.png)
 print
-![welcome Page](snapshots/user_11.png)
+![welcome Page](snapshots/user_11.png) -->
 
